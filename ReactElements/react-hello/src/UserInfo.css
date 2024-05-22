@@ -1,0 +1,23 @@
+.user-info {
+  background-color: black;
+  padding-left: 70px;
+}
+
+.userName {
+  color: white;
+  font-size: 170px;
+  font-weight: 400;
+  margin-left: 50px;
+}
+
+.info {
+  color: white;
+  font-size: 100px;
+  line-height: 0.8;
+}
+
+.shopping-cart {
+  font-size: 90px;
+  margin-left: 150px;
+  color: white;
+}

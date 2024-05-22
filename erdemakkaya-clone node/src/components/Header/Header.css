@@ -1,0 +1,39 @@
+.header {
+  display: block;
+  text-align: center;
+  width: 100%;
+  padding: 0;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.logo {
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #000000;
+  font-size: 40px;
+}
+
+.logospan {
+  font-weight: 700;
+}
+
+.nav-links {
+  list-style-type: none;
+  display: flex;
+  gap: 40px;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.nav-link-item {
+  text-decoration: none;
+  color: #000000;
+}
